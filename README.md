@@ -13,6 +13,8 @@ Dicas de Ferramentas e comandos
 
 [ introduction to core Keras API concepts.](https://colab.research.google.com/drive/169PfzM0kvtA5UP4k6Sl1yCG9tsE2MLia#scrollTo=sxVQuAYKbmGn)
 
+# Substituiçao de Texto
 
+[Ferramenta Classica do Unix/Linux Sed](https://www.grymoire.com/Unix/Sed.html)
 
 
