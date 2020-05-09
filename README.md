@@ -11,8 +11,9 @@ Dicas de Ferramentas e comandos
 # IA
 [Everything you need to know to use Keras & TF 2.0 to build real-world machine learning solutions.](https://colab.research.google.com/drive/1lWUGZarlbORaHYUZlF9muCgpPl8pEvve#scrollTo=zKWZuVtoZRKZ)
 
-[ introduction to core Keras API concepts.](https://colab.research.google.com/drive/169PfzM0kvtA5UP4k6Sl1yCG9tsE2MLia#scrollTo=sxVQuAYKbmGn)
+[ introduction to core Keras API concepts in Colab](https://colab.research.google.com/drive/169PfzM0kvtA5UP4k6Sl1yCG9tsE2MLia#scrollTo=sxVQuAYKbmGn)
 
+[Keras Online DOC and get startedhttps://keras.io/getting_started/](https://keras.io/getting_started/)
 # Substituiçao de Texto
 
 [Ferramenta Classica do Unix/Linux Sed](https://www.grymoire.com/Unix/Sed.html)
