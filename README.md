@@ -12,6 +12,8 @@ Dicas de Ferramentas e comandos
 
 [Captura sua apresentacao (libreoffice, powerpoint, etc..) e gravando junto com sua camera/narracao com OBS](http://educacaoaberta.org/como-gravar-apresentacoes-com-narracao-em-video/)
 
+Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Super(windows) + Control + r. pause recording: Super + Control + p. finish recording: Super + Control + f. show Kazam: Super + Control + s.
+
 
 # IA
 [Everything you need to know to use Keras & TF 2.0 to build real-world machine learning solutions.](https://colab.research.google.com/drive/1lWUGZarlbORaHYUZlF9muCgpPl8pEvve#scrollTo=zKWZuVtoZRKZ)
