@@ -14,6 +14,14 @@ Dicas de Ferramentas e comandos
 
 Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Super(windows) + Control + r. pause recording: Super + Control + p. finish recording: Super + Control + f. show Kazam: Super + Control + s.
 
+# EDA
+ 
+ [Introdução para Google Classroom](https://www.youtube.com/watch?v=rCNImsWUxZA)
+ 
+ [Dicas para Google Classroom](https://www.youtube.com/watch?v=qOUEP29MX58)
+
+[jamboard google](https://jamboard.google.com/)
+
 
 # IA
 [Everything you need to know to use Keras & TF 2.0 to build real-world machine learning solutions.](https://colab.research.google.com/drive/1lWUGZarlbORaHYUZlF9muCgpPl8pEvve#scrollTo=zKWZuVtoZRKZ)
