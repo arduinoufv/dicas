@@ -28,6 +28,8 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 [ introduction to core Keras API concepts in Colab](https://colab.research.google.com/drive/169PfzM0kvtA5UP4k6Sl1yCG9tsE2MLia#scrollTo=sxVQuAYKbmGn)
 
+[Metric learning for image similarity search](https://keras.io/examples/vision/metric_learning/)
+
 [Keras Online DOC and get startedhttps://keras.io/getting_started/](https://keras.io/getting_started/)
 # Substituiçao de Texto
 
