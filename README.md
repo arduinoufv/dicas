@@ -37,6 +37,7 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 [awk e sed](http://www.pement.org/awk/awk_sed.txt)
 
+[100 dicas com sed](http://www.pement.org/sed/sed1line.txt)
 
 
 
