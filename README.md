@@ -31,6 +31,9 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 [Metric learning for image similarity search](https://keras.io/examples/vision/metric_learning/)
 
 [Keras Online DOC and get startedhttps://keras.io/getting_started/](https://keras.io/getting_started/)
+
+[Tensorflow](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
+
 # Substituiçao de Texto
 
 [Ferramenta Classica do Unix/Linux Sed](https://www.grymoire.com/Unix/Sed.html)
