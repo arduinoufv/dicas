@@ -42,5 +42,11 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 [100 dicas com sed](http://www.pement.org/sed/sed1line.txt)
 
+# Verilog
+
+* [YosysJS verilog Demo 2](http://www.clifford.at/yosys/nogit/YosysJS/snapshot/demo02.html)
+* [YosysJS verilog Demo 1](http://www.clifford.at/yosys/nogit/YosysJS/snapshot/demo01.html)
+
+
 
 
