@@ -36,6 +36,11 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 [Tensorflow](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 
+
+# Machine Learning
+
+[CS229 Machine Learning Youtube 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
 # Substituiçao de Texto
 
 [Ferramenta Classica do Unix/Linux Sed](https://www.grymoire.com/Unix/Sed.html)
