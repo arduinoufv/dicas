@@ -41,6 +41,8 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 [CS229 Machine Learning Youtube 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
+[MIT introduction to Deep Learning 2020](http://introtodeeplearning.com/)
+
 # Substituiçao de Texto
 
 [Ferramenta Classica do Unix/Linux Sed](https://www.grymoire.com/Unix/Sed.html)
