@@ -39,6 +39,8 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 # Machine Learning
 
+[Livro + colab = data science](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+
 [CS229 Machine Learning Youtube 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 [MIT introduction to Deep Learning 2020](http://introtodeeplearning.com/)
