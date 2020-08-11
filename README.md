@@ -34,6 +34,8 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 [Keras Online DOC and get startedhttps://keras.io/getting_started/](https://keras.io/getting_started/)
 
+[Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI)
+
 [Tensorflow](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 
 
