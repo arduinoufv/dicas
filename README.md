@@ -38,6 +38,7 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 [Tensorflow](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 
+[fastai: A Layered API for Deep Learning](https://arxiv.org/abs/2002.04688)
 
 # Machine Learning
 
