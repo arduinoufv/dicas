@@ -1,6 +1,11 @@
 # dicas
 Dicas de Ferramentas e comandos
 
+# Colab
+
+* [Graficos no Colab com Python](https://colab.research.google.com/notebooks/charts.ipynb)
+
+
 # Imagens
 [Manipulaçao de Imagens {crop,resize}](https://github.com/imazen/imageflow)
 
