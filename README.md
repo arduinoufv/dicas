@@ -47,6 +47,9 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 [fastai: A Layered API for Deep Learning](https://arxiv.org/abs/2002.04688)
 
+
+[OCR com Keras e TF 2.0](https://www.pyimagesearch.com/2020/08/17/ocr-with-keras-tensorflow-and-deep-learning/)
+
 # Machine Learning
 
 [Livro + colab = data science](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
