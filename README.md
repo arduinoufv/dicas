@@ -19,6 +19,8 @@ Dicas de Ferramentas e comandos
 
 Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Super(windows) + Control + r. pause recording: Super + Control + p. finish recording: Super + Control + f. show Kazam: Super + Control + s.
 
+[Edicao de video no Linux com DaVinci Resolve](https://diolinux.com.br/2019/02/como-instalar-davinci-resolve-no-linux.html)
+
 # EDA
  
  [Introdução para Google Classroom](https://www.youtube.com/watch?v=rCNImsWUxZA)
