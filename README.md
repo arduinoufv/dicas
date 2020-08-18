@@ -5,6 +5,9 @@ Dicas de Ferramentas e comandos
 
 * [Graficos no Colab com Python](https://colab.research.google.com/notebooks/charts.ipynb)
 
+* [Laboratorios de CUDA, AVX, OpenMP](https://github.com/jeonggunlee/CUDATeaching)
+
+
 
 # Imagens
 [Manipulaçao de Imagens {crop,resize}](https://github.com/imazen/imageflow)
