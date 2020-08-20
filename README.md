@@ -7,6 +7,8 @@ Dicas de Ferramentas e comandos
 
 * [Laboratorios de CUDA, AVX, OpenMP](https://github.com/jeonggunlee/CUDATeaching)
 
+* [Recursos de Texto do Jupyter](https://medium.com/ibm-data-science-experience/markdown-for-jupyter-notebooks-cheatsheet-386c05aeebed)
+
 
 
 # Imagens
