@@ -55,6 +55,9 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 [OCR com Keras e TF 2.0](https://www.pyimagesearch.com/2020/08/17/ocr-with-keras-tensorflow-and-deep-learning/)
 
+[OCR com Keras, openCV e TF parte II](https://www.pyimagesearch.com/2020/08/24/ocr-handwriting-recognition-with-opencv-keras-and-tensorflow/)
+
+
 # Machine Learning
 
 [Livro + colab = data science](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
