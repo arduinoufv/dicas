@@ -9,6 +9,7 @@ Dicas de Ferramentas e comandos
 
 * [Recursos de Texto do Jupyter](https://medium.com/ibm-data-science-experience/markdown-for-jupyter-notebooks-cheatsheet-386c05aeebed)
 
+* [Tabelas online no Colab](https://colab.research.google.com/notebooks/data_table.ipynb)
 
 
 # Imagens
