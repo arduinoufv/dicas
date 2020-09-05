@@ -11,6 +11,8 @@ Dicas de Ferramentas e comandos
 
 * [Tabelas online no Colab](https://colab.research.google.com/notebooks/data_table.ipynb)
 
+* [10 dicas no Colab](https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82)
+
 
 # Imagens
 [Manipulaçao de Imagens {crop,resize}](https://github.com/imazen/imageflow)
