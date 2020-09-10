@@ -75,6 +75,10 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 * [Curso do Yan Lecun - NYC - Pytorch](https://atcold.github.io/pytorch-Deep-Learning/)
 
+# CNN
+* [CS 231 Stanford](http://cs231n.stanford.edu/)
+
+
 # Substituiçao de Texto
 
 [Ferramenta Classica do Unix/Linux Sed](https://www.grymoire.com/Unix/Sed.html)
