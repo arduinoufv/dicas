@@ -69,6 +69,12 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 [CS229 Machine Learning Youtube 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
+* [CMU - Machine Learning for Structured Data Video](https://www.youtube.com/playlist?list=PL4CxkUJbvNVihRKP4bXufvRLIWzeS-ieP)
+* [CMU - Machine Learning for Structured Data](http://www.cs.cmu.edu/~mgormley/courses/10418/schedule.html)
+
+* [CMU - Introduction to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10601/schedule.html)
+* [CMU - Intro ML Videos](https://www.youtube.com/watch?v=dWBFGglu7qQ&list=PLpqQKYIU-snAPM89YPPwyQ9xdaiAdoouk)
+
 # Deep Learning
 
 * [MIT introduction to Deep Learning 2020](http://introtodeeplearning.com/)
