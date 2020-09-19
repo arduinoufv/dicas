@@ -79,6 +79,8 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 * [MIT introduction to Deep Learning 2020](http://introtodeeplearning.com/)
 
+* [MIT DL 2020 2019 2018](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
 * [Curso do Yan Lecun - NYC - Pytorch](https://atcold.github.io/pytorch-Deep-Learning/)
 
 # CNN
