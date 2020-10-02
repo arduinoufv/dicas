@@ -100,6 +100,10 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 * [YosysJS verilog Demo 2](http://www.clifford.at/yosys/nogit/YosysJS/snapshot/demo02.html)
 * [YosysJS verilog Demo 1](http://www.clifford.at/yosys/nogit/YosysJS/snapshot/demo01.html)
 
+# CAPES
+
+* [Computaçao](www1.capes.gov.br/avaliacao/sobre-as-areas-de-avaliacao/75-dav/caa3/4656-ciencia-da-computacao)
+
 
 
 
