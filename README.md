@@ -13,6 +13,9 @@ Dicas de Ferramentas e comandos
 
 * [10 dicas no Colab](https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82)
 
+* [testar qual eh a GPU e memoria](https://colab.research.google.com/notebooks/pro.ipynb#scrollTo=V1G82GuO-tez)
+
+
 
 # Imagens
 [Manipulaçao de Imagens {crop,resize}](https://github.com/imazen/imageflow)
