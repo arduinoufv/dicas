@@ -15,6 +15,8 @@ Dicas de Ferramentas e comandos
 
 * [testar qual eh a GPU e memoria](https://colab.research.google.com/notebooks/pro.ipynb#scrollTo=V1G82GuO-tez)
 
+* [forms](https://colab.research.google.com/notebooks/forms.ipynb#scrollTo=WPib9hvO8Pmb)
+
 
 
 # Imagens
