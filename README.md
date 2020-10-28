@@ -90,7 +90,7 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 # CNN
 * [CS 231 Stanford](http://cs231n.stanford.edu/)
-
+ 
 
 # Substituiçao de Texto
 
