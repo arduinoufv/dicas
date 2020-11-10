@@ -91,6 +91,10 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 # CNN
 * [CS 231 Stanford](http://cs231n.stanford.edu/)
  
+# Pytorch
+
+* [Introducao a Redes Neurais](https://github.com/peixebabel/RedesNeuraisPyBR)
+
 
 # Substituiçao de Texto
 
