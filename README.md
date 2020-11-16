@@ -17,6 +17,9 @@ Dicas de Ferramentas e comandos
 
 * [forms](https://colab.research.google.com/notebooks/forms.ipynb#scrollTo=WPib9hvO8Pmb)
 
+# Perf
+
+[Livro](https://book.easyperf.net/perf_book)
 
 
 # Imagens
