@@ -1,6 +1,10 @@
 # dicas
 Dicas de Ferramentas e comandos
 
+# Cursos de Computação
+
+[Cursos](https://github.com/Developer-Y/cs-video-courses)
+
 # Colab
 
 * [Graficos no Colab com Python](https://colab.research.google.com/notebooks/charts.ipynb)
