@@ -51,7 +51,9 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 [Everything you need to know to use Keras & TF 2.0 to build real-world machine learning solutions.](https://colab.research.google.com/drive/1lWUGZarlbORaHYUZlF9muCgpPl8pEvve#scrollTo=zKWZuVtoZRKZ)
 
-[ introduction to core Keras API concepts in Colab](https://colab.research.google.com/drive/169PfzM0kvtA5UP4k6Sl1yCG9tsE2MLia#scrollTo=sxVQuAYKbmGn)
+[Deep Lizard - Varios cursos de DL, Keras, TF](https://www.youtube.com/results?search_query=deeplizard)
+
+[introduction to core Keras API concepts in Colab](https://colab.research.google.com/drive/169PfzM0kvtA5UP4k6Sl1yCG9tsE2MLia#scrollTo=sxVQuAYKbmGn)
 
 [Metric learning for image similarity search](https://keras.io/examples/vision/metric_learning/)
 
