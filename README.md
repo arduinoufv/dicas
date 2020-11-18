@@ -88,6 +88,8 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 * [CMU - Introduction to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10601/schedule.html)
 * [CMU - Intro ML Videos](https://www.youtube.com/watch?v=dWBFGglu7qQ&list=PLpqQKYIU-snAPM89YPPwyQ9xdaiAdoouk)
 
+* [GAN - Geradores de Imagens Real or Fake com Keras e TF](https://www.pyimagesearch.com/2020/11/16/gans-with-keras-and-tensorflow/)
+
 # Deep Learning
 
 * [MIT introduction to Deep Learning 2020](http://introtodeeplearning.com/)
@@ -120,6 +122,11 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 # CAPES
 
 * [Computaçao](www1.capes.gov.br/avaliacao/sobre-as-areas-de-avaliacao/75-dav/caa3/4656-ciencia-da-computacao)
+
+# Historia da Computacao 
+
+[Brian Kerminghan - Nascimento do Unix](https://corecursive.com/brian-kernighan-unix-bell-labs1/)
+
 
 
 
