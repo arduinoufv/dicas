@@ -52,6 +52,8 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 # IA
 
+[IA para todos a partir de 12 anos](https://cursos.computacaonaescola.ufsc.br/cursos/curso-mlparatodos/?tab=tab-overview)
+
 [Introdução a Python e NumPy para IA Stanford](https://cs231n.github.io/python-numpy-tutorial/)
 
 [SEFR Algorithm Performs Image Classification, Including Training, on an Arduino Uno or Other MCU](https://www.hackster.io/news/sefr-algorithm-performs-image-classification-including-training-on-an-arduino-uno-or-other-mcu-8a707c2e18aa)
