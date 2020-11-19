@@ -51,6 +51,9 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 
 # IA
+
+[Introdução a Python e NumPy para IA Stanford](https://cs231n.github.io/python-numpy-tutorial/)
+
 [SEFR Algorithm Performs Image Classification, Including Training, on an Arduino Uno or Other MCU](https://www.hackster.io/news/sefr-algorithm-performs-image-classification-including-training-on-an-arduino-uno-or-other-mcu-8a707c2e18aa)
 
 [Everything you need to know to use Keras & TF 2.0 to build real-world machine learning solutions.](https://colab.research.google.com/drive/1lWUGZarlbORaHYUZlF9muCgpPl8pEvve#scrollTo=zKWZuVtoZRKZ)
