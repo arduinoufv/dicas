@@ -21,6 +21,8 @@ Dicas de Ferramentas e comandos
 
 * [forms](https://colab.research.google.com/notebooks/forms.ipynb#scrollTo=WPib9hvO8Pmb)
 
+* [Informacoes da CPU](https://colab.research.google.com/github/d2l-ai/d2l-tvm-colab/blob/master/chapter_cpu_schedules/arch.ipynb#scrollTo=cGaO5rYYHU__)
+
 # Perf
 
 [Livro](https://book.easyperf.net/perf_book)
