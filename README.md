@@ -101,13 +101,16 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 * [GAN - Geradores de Imagens Real or Fake com Keras e TF](https://www.pyimagesearch.com/2020/11/16/gans-with-keras-and-tensorflow/)
 
-# Deep Learning
+# Deep Learning  
 
 * [MIT introduction to Deep Learning 2020](http://introtodeeplearning.com/)
 
 * [MIT DL 2020 2019 2018](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
-* [Curso do Yan Lecun - NYC - Pytorch](https://atcold.github.io/pytorch-Deep-Learning/)
+* [Curso do Yan Lecun - NYC - Pytorch](https://atcold.github.io/pytorch-Deep-Learning/)  [
+Yann LeCun’s Deep Learning Course at CDS
+DS-GA 1008 · SPRING 2020 · CDS](https://cds.nyu.edu/deep-learning/)
+
 
 # CNN
 * [CS 231 Stanford](http://cs231n.stanford.edu/)
