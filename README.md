@@ -91,6 +91,8 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 [outro livro com ML + TF 2.0 e Keras](https://github.com/ageron/handson-ml2)
 
+[Github Deep Learning with Python Francois Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
+
 [CS229 Machine Learning Youtube 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 * [CMU - Machine Learning for Structured Data Video](https://www.youtube.com/playlist?list=PL4CxkUJbvNVihRKP4bXufvRLIWzeS-ieP)
