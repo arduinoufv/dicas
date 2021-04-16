@@ -43,6 +43,8 @@ Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Su
 
 [Edicao de video no Linux com DaVinci Resolve](https://diolinux.com.br/2019/02/como-instalar-davinci-resolve-no-linux.html)
 
+[Limpar audio](https://github.com/josh-richardson/cadmus)
+
 # EDA
  
  [Introdução para Google Classroom](https://www.youtube.com/watch?v=rCNImsWUxZA)
