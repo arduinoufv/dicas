@@ -20,6 +20,8 @@ Dicas de Ferramentas e comandos
 * [testar qual eh a GPU e memoria](https://colab.research.google.com/notebooks/pro.ipynb#scrollTo=V1G82GuO-tez)
 
 * [forms](https://colab.research.google.com/notebooks/forms.ipynb#scrollTo=WPib9hvO8Pmb)
+* [capturar webcam, imagens de links e mostrar, javascript, etc..](https://colab.research.google.com/notebooks/snippets/advanced_outputs.ipynb#scrollTo=buJCl90WhNfq)
+* 
 
 * [Informacoes da CPU](https://colab.research.google.com/github/d2l-ai/d2l-tvm-colab/blob/master/chapter_cpu_schedules/arch.ipynb#scrollTo=cGaO5rYYHU__)
 
