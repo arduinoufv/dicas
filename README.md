@@ -148,6 +148,11 @@ DS-GA 1008 · SPRING 2020 · CDS](https://cds.nyu.edu/deep-learning/)
 [Brian Kerminghan - Nascimento do Unix](https://corecursive.com/brian-kernighan-unix-bell-labs1/)
 
 
+# Paralelo
+
+[sort paralelo em pipeline](https://github.com/sylefeb/Silice/tree/master/projects/pipeline_sort)
+
+
 
 
 
