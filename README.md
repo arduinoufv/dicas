@@ -13,7 +13,7 @@ A Simulação 1 e a Simulação 2 foram realizadas sem definição de "Data Limi
   
 [OCULTANDO CONTEÚDOS NO LIVRO DE NOTAS](https://www.youtube.com/watch?v=zJgrlh02PGc)
 
-## Curso UFV
+## Curso UFV Moodle
 
 Tutoriais e Vídeo Aulas da Unidade 1
 Após leitura da apostila da unidade, assista as vídeo aulas a seguir:
