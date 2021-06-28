@@ -8,13 +8,8 @@ Dicas de Ferramentas e comandos
 
 A Simulação 1 e a Simulação 2 foram realizadas sem definição de "Data Limite", e a Simulação 3 e a Simulação 4 com "Data Limite".
 
-* [Simulação 1:](https://youtu.be/wfCh-MYm1i4)
-
-* [Simulação 2:](https://youtu.be/xVh06TIASLQ)
-
-* [Simulação 3:](https://youtu.be/_ROyOfuMWKQ)
-
-* [Simulação 4:](https://youtu.be/g_KP-Yl5NBI)
+ [Simulação 1:](https://youtu.be/wfCh-MYm1i4), [Simulação 2:](https://youtu.be/xVh06TIASLQ), [Simulação 3:](https://youtu.be/_ROyOfuMWKQ)
+, [Simulação 4:](https://youtu.be/g_KP-Yl5NBI)
   
 [OCULTANDO CONTEÚDOS NO LIVRO DE NOTAS](https://www.youtube.com/watch?v=zJgrlh02PGc)
 
@@ -23,8 +18,7 @@ A Simulação 1 e a Simulação 2 foram realizadas sem definição de "Data Limi
 Tutoriais e Vídeo Aulas da Unidade 1
 Após leitura da apostila da unidade, assista as vídeo aulas a seguir:
 
-* [Apresentação do AVA (duração: 13'04'')](https://bit.ly/3qyayY5)
-* [Como editar o seu Perfil (duração: 7'17'')](https://bit.ly/2NEKfRs)
+[Apresentação do AVA (duração: 13'04'')](https://bit.ly/3qyayY5), [Como editar o seu Perfil (duração: 7'17'')](https://bit.ly/2NEKfRs)
 
  botão youtube03) Conhecendo configurações de preferências: notificações e editor de texto (duração: 7'27'')
 Link: https://bit.ly/3bOLaY1
