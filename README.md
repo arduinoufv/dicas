@@ -197,6 +197,11 @@ Exemplo 4.
 
 [Cursos](https://github.com/Developer-Y/cs-video-courses)
 
+# Livros com problemas para Maratona
+
+[many algorithms and data structures especially popular in field of competitive programming](https://cp-algorithms.com/)
+[Competitive Programming](https://cpbook.net/)
+
 # Colab
 
 * [Graficos no Colab com Python](https://colab.research.google.com/notebooks/charts.ipynb)
