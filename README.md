@@ -193,6 +193,10 @@ Exemplo 3.
 
 Exemplo 4.
 
+# jupyter
+
+[JupyterLite is a JupyterLab distribution that runs entirely in the browser built from the ground-up using JupyterLab components and extensions.](https://jupyterlite.readthedocs.io/en/latest/?badge=latest)
+
 # Cursos de Computação
 
 [Cursos](https://github.com/Developer-Y/cs-video-courses)
