@@ -17,6 +17,7 @@ Dicas de Ferramentas e comandos
 # Colab
 
 * [Graficos no Colab com Python](https://colab.research.google.com/notebooks/charts.ipynb)
+* [matplot zoom](https://matplotlib.org/stable/gallery/subplots_axes_and_figures/zoom_inset_axes.html)
 
 * [Laboratorios de CUDA, AVX, OpenMP](https://github.com/jeonggunlee/CUDATeaching)
 
