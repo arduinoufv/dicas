@@ -47,6 +47,8 @@ Dicas de Ferramentas e comandos
 
 [Photo to Draw](https://pixel-me.tokyo/en/)
 
+[Photo to Cartoon Face Art Editor](https://www.befunky.com/create/photo-to-cartoon/)
+
 # Videos
 
 [Captura sua apresentacao (libreoffice, powerpoint, etc..) e gravando junto com sua camera/narracao com OBS](http://educacaoaberta.org/como-gravar-apresentacoes-com-narracao-em-video/)
