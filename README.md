@@ -51,6 +51,8 @@ Dicas de Ferramentas e comandos
 
 # Videos
 
+[Várias dicas com ffmpeg e outros](https://www.bogotobogo.com/FFMpeg/ffmpeg_fade_in_fade_out_transitions_effects_filters_slideshow_concat.php)
+
 [Captura sua apresentacao (libreoffice, powerpoint, etc..) e gravando junto com sua camera/narracao com OBS](http://educacaoaberta.org/como-gravar-apresentacoes-com-narracao-em-video/)
 
 Uso do Kazam no Linux para captura de tela com as opções de atalho: start : Super(windows) + Control + r. pause recording: Super + Control + p. finish recording: Super + Control + f. show Kazam: Super + Control + s.
