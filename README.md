@@ -39,6 +39,9 @@ Dicas de Ferramentas e comandos
 
 [Livro](https://book.easyperf.net/perf_book)
 
+# Latex
+
+[latex math to SVG](https://viereck.ch/latex-to-svg/)
 
 # Imagens
 [Manipulaçao de Imagens {crop,resize}](https://github.com/imazen/imageflow)
