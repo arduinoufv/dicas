@@ -39,6 +39,8 @@ Dicas de Ferramentas e comandos
 
 [Livro](https://book.easyperf.net/perf_book)
 
+[Linux perf Profiler UIs Interface](https://www.markhansen.co.nz/profiler-uis/)
+
 # Latex
 
 [latex math to SVG](https://viereck.ch/latex-to-svg/)
