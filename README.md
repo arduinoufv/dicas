@@ -35,6 +35,9 @@ Dicas de Ferramentas e comandos
 
 * [Informacoes da CPU](https://colab.research.google.com/github/d2l-ai/d2l-tvm-colab/blob/master/chapter_cpu_schedules/arch.ipynb#scrollTo=cGaO5rYYHU__)
 
+## Graphical
+ [Altair is a declarative statistical visualization library for Python, based on Vega and Vega-Lite.](https://altair-viz.github.io/getting_started/overview.html)
+
 # Perf
 
 [Livro](https://book.easyperf.net/perf_book)
