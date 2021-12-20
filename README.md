@@ -13,6 +13,10 @@ Dicas de Ferramentas e comandos
 
 [Cursos](https://github.com/Developer-Y/cs-video-courses)
 
+# Verilator
+
+[Verilator and Project F](https://projectf.io/posts/verilog-sim-verilator-sdl/)
+
 # Livros com problemas para Maratona
 
 [many algorithms and data structures especially popular in field of competitive programming](https://cp-algorithms.com/)
