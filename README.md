@@ -65,6 +65,8 @@ Dicas de Ferramentas e comandos
 
 [Photo to Cartoon Face Art Editor](https://www.befunky.com/create/photo-to-cartoon/)
 
+[png to gif](https://pythonprogramming.altervista.org/png-to-gif/)
+
 # Videos
 
 [Várias dicas com ffmpeg e outros](https://www.bogotobogo.com/FFMpeg/ffmpeg_fade_in_fade_out_transitions_effects_filters_slideshow_concat.php)
