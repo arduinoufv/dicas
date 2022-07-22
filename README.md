@@ -45,6 +45,8 @@ Dicas de Ferramentas e comandos
 
 ## Graphical
  [Altair is a declarative statistical visualization library for Python, based on Vega and Vega-Lite.](https://altair-viz.github.io/getting_started/overview.html)
+ 
+ ![]()
 
 # Perf
 
