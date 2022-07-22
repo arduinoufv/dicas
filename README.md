@@ -12,6 +12,7 @@ Dicas de Ferramentas e comandos
 # Cursos de Computação
 
 [Cursos](https://github.com/Developer-Y/cs-video-courses)
+[Python para Criancas](https://github.com/aibooks14/PYK/blob/main/Python%20for%20Kids%20(en).pdf)
 
 # Verilator
 
