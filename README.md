@@ -1,6 +1,17 @@
 # dicas
 Dicas de Ferramentas e comandos
 
+# Google
+
+* The "-" operator will exclude results that contain a term or phrase: ```javascript -css```
+* You can use the (*) wildcards as placeholders, which will be replaced by any word or phrase. ```"how to start * in 6 months"```
+*  Search inside a single website: ```site:http://freecodecamp.org```
+* You can also use a very useful feature that helps to find a specific file type. Super useful! ```filetype:pdf learn css```
+*  Search for a range of numbers: ```ecmascript 2016..2018```
+*  Use the `before` operator to return only results before a given date ```javascript before:2020```
+* Use the `after` operator to return only results after a given date ```web development after:2020```
+
+
 # Desenhos
 
 [Exalidraw - online](https://excalidraw.com/)
