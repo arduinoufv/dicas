@@ -1,6 +1,10 @@
 # dicas
 Dicas de Ferramentas e comandos
 
+# Linux
+
+![](https://github.com/arduinoufv/dicas/blob/master/FZ-CrL8XoAUrYLp.jpeg?raw=true)
+
 # Google
 
 * The "-" operator will exclude results that contain a term or phrase: ```javascript -css```
