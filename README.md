@@ -7,6 +7,7 @@ Dicas de Ferramentas e comandos
 * [Aula do Knuth sobre ZDD, a mais bela estrutura de dados](https://www.youtube.com/watch?v=-HzQYeqS9Wc)
 * [Artigo O Coudert - Solving Graph Optimization Problems with ZBDDs - melhores artigos de Ciência da Computação](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.4729&rep=rep1&type=pdf)
 * [Página do Prof. Minato que criou os ZDD](https://www.lab2.kuis.kyoto-u.ac.jp/minato/index-e.html)
+* [Veja o capitulo 6 do Minato](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/160759/2/D_Minato_Shin-ichi.pdf)
 
 
 # Linux
