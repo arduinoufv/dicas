@@ -1,6 +1,14 @@
 # dicas
 Dicas de Ferramentas e comandos
 
+# Estrutura de Dados
+
+## ZDD 
+* [Aula do Knuth sobre ZDD, a mais bela estrutura de dados](https://www.youtube.com/watch?v=-HzQYeqS9Wc)
+* [Artigo O Coudert - Solving Graph Optimization Problems with ZBDDs - melhores artigos de Ciência da Computação](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.4729&rep=rep1&type=pdf)
+* [Página do Prof. Minato que criou os ZDD](https://www.lab2.kuis.kyoto-u.ac.jp/minato/index-e.html)
+
+
 # Linux
 
 ![](https://github.com/arduinoufv/dicas/blob/master/FZ-CrL8XoAUrYLp.jpeg?raw=true)
