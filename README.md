@@ -49,6 +49,8 @@ Dicas de Ferramentas e comandos
 
 # Colab
 
+*[ blog](https://medium.com/google-colab)
+
 * [Graficos no Colab com Python](https://colab.research.google.com/notebooks/charts.ipynb)
 * [matplot zoom](https://matplotlib.org/stable/gallery/subplots_axes_and_figures/zoom_inset_axes.html)
 
