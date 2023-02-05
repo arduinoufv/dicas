@@ -214,6 +214,10 @@ DS-GA 1008 · SPRING 2020 · CDS](https://cds.nyu.edu/deep-learning/)
 [sort paralelo em pipeline](https://github.com/sylefeb/Silice/tree/master/projects/pipeline_sort)
 
 
+# Geral
+
+[Nó de Gravata](https://twitter.com/TansuYegen/status/1621822974679556099?s=20&t=BFMgC4UlzrFRtkoRJix3Lw)
+
 
 
 
